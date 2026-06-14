@@ -34,10 +34,10 @@ A modern and responsive portfolio website designed to showcase my skills, projec
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](screenshots/Homepage.png)
+![Home Page](images/Homepage.png)
 
 ### Projects Section
-![Projects](screenshots/projects.png)
+![Projects](images/projects.png)
 
 ## 🔮 Future Enhancements
 
